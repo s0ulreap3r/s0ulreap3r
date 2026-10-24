@@ -1,16 +1,23 @@
-## Hi there 👋
+# `s0ulreap3r`
 
-<!--
-**s0ulreap3r/s0ulreap3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Independent learner. Private by design.`
 
-Here are some ideas to get you started:
+Exploring technology, experimenting with ideas and building things one step at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+
+- Learning through practice
+- Exploring software and technology
+
+### Principles
+
+```text
+Keep it simple.
+Stay curious.
+Build with purpose.
+Let the work speak.
+```
+
+---
+
+<sub>Low profile. Open mind.</sub>
